@@ -1,0 +1,9 @@
+1.找出需要变化之处，和不需要变化的分离开
+2.针对接口编程，而不是针对实现
+3.多用组合，少用继承
+4.松耦合设计
+5.类 对扩展开放，对修改关闭
+6.Dependency Inversion Principle:要依赖抽象不要依赖具体类
+7.最少知识/least knowledge：Each unit should have only limited knowledge about other units: only units "closely" related to the current unit.
+8.好莱坞原则：别call我们，我们会call你。(底层组件不可以直接调用高层组件)
+
