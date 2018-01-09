@@ -29,5 +29,8 @@ Template Pattern:
 定义一个算法的步骤，允许子类为一个或多个步骤提供实现。
 使得子类可以在不改变算法结构的情况下重新定义算法的某些步骤。
 
-Composite Pattern
+Composite Pattern:
 将对象组合成树形结构来表现’整体/部分’层次结构。
+
+Representative Pattern:
+
