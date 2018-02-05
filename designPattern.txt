@@ -33,4 +33,7 @@ Composite Pattern:
 将对象组合成树形结构来表现’整体/部分’层次结构。
 
 Representative Pattern:
+为一个对象提供一个替身或者占位符一控制对象的访问。
 
+Combined Pattern:
+MVC/model-view-controller：观察者 视图 控制器

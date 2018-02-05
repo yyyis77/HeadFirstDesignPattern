@@ -3,7 +3,7 @@
  */
 public class SimplePizzaFacroty {
     public Pizza createPizza(String type){
-        Pizza pizza = new Pizza();
+        Pizza pizza = null;
 
         if(type.equals("cheese")){
             pizza = new CheesePizza();

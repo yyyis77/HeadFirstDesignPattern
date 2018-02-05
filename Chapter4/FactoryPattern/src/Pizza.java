@@ -1,7 +1,7 @@
 /**
  * Created by yangyongyi on 12/30/17.
  */
-public class Pizza {
+public abstract class Pizza {
     String name;
 
     public String getName(){
